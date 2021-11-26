@@ -1,0 +1,13 @@
+{
+    "name": "AuthSaml2",
+    "alias": "authsaml2",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\AuthSaml2\\Providers\\AuthSaml2ServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
